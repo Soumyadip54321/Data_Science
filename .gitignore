@@ -1,1 +1,9 @@
 .kaggle/
+# Large/raw datasets
+Kaggle_Competitions/Predictions/
+Web Scrapping/*.csv
+Data_Analysis/Datasets/
+Tableu/Datasets/
+Machine_Learning/datasets/
+Web Scrapping/DataSets/
+.venv/
