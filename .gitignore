@@ -4,9 +4,7 @@ Kaggle_Competitions/Predictions/
 Kaggle_Competitions/datasets/
 Web Scrapping/*.csv
 Data_Analysis/Datasets/
-Tableu/Datasets/
-Machine_Learning/datasets/
 Web Scrapping/DataSets/
 .venv/
-Image Processing/Resources
 .env
+.idea/
